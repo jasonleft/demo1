@@ -1,3 +1,3 @@
 function getName() {
-    return 'xiaoming';
+    return 'xie cuo le';
 }
